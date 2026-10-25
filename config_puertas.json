@@ -1,0 +1,174 @@
+{
+  "tab_puertas": [
+    938,
+    72
+  ],
+  "gate_x": 643,
+  "gate_y": [
+    277,
+    350,
+    423,
+    496,
+    569,
+    642,
+    715,
+    788,
+    861
+  ],
+  "scroll_punto": [
+    1500,
+    600
+  ],
+  "x100": [
+    1047,
+    451
+  ],
+  "procesar": [
+    930,
+    770
+  ],
+  "preparar_portal": [
+    930,
+    960
+  ],
+  "boton_start": [
+    1168,
+    73
+  ],
+  "teclas_cambio": [
+    "ctrl+tab",
+    "ctrl+shift+tab"
+  ],
+  "espera_start": 12,
+  "uridium_region": [
+    1575,
+    64,
+    100,
+    18
+  ],
+  "uridium_juego": [
+    144,
+    116,
+    76,
+    18
+  ],
+  "mapa_region": [
+    1660,
+    882,
+    230,
+    143
+  ],
+  "titulo_region": [
+    1660,
+    863,
+    140,
+    16
+  ],
+  "aros": {
+    "ALPHA": [
+      1848,
+      897
+    ],
+    "KRONOS": [
+      1829,
+      904
+    ],
+    "BETA": [
+      1856,
+      918
+    ],
+    "GAMMA": [
+      1874,
+      931
+    ],
+    "LAMBDA": [
+      1846,
+      932
+    ],
+    "ZETA": [
+      1869,
+      943
+    ],
+    "KAPPA": [
+      1869,
+      950
+    ],
+    "DELTA": [
+      1893,
+      944
+    ]
+  },
+  "mini_mapa": [
+    1672,
+    887,
+    230,
+    143
+  ],
+  "slot_kamikaze": [
+    1137,
+    923
+  ],
+  "tecla_kamikaze": "0",
+  "pet_boton": [
+    1637,
+    358,
+    52,
+    33
+  ],
+  "centro_nave": [
+    960,
+    540
+  ],
+  "radio_juntos": 300,
+  "min_npc_juntos": 6,
+  "espera_juntos_max": 10,
+  "cooldown_kamikaze": 22.0,
+  "pet_comprar_comb": [
+    1718,
+    372
+  ],
+  "pet_barra_comb": [
+    1821,
+    66
+  ],
+  "comb_min": 4,
+  "comb_max": 10,
+  "spread_max_mini": 12,
+  "estable_seg": 0.7,
+  "tiempo_tramo": 6,
+  "intervalo_tirada": 0.3,
+  "costo_tirada": 10000,
+  "max_intentos_salto": 60,
+  "usar_start_tras_preparar": true,
+  "modo_fondo": true,
+  "espera_inicio_ronda": 2.0,
+  "quieto_seg": 0.6,
+  "quieto_huida": 0.3,
+  "version_tiempos": 3,
+  "espera_carga_nave": 240,
+  "timeout_llegada": 90,
+  "espera_salto": 10,
+  "umbral_quieta_mini": 25,
+  "radio_llegada": 10,
+  "quieto_llegada": 0.5,
+  "timeout_tramo": 45,
+  "huida_margen": 14,
+  "puntos_huida": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0
+    ],
+    [
+      1.0,
+      1.0
+    ],
+    [
+      1.0,
+      0.0
+    ]
+  ]
+}

@@ -1,0 +1,163 @@
+Traceback (most recent call last):
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 538, in worker
+    flujo(gate)
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 355, in flujo
+    click(*aro)
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 77, in click
+    pyautogui.moveTo(x, y, duration=0.15)
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+
+Traceback (most recent call last):
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 538, in worker
+    flujo(gate)
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 335, in flujo
+    click(bx, by); esperar(0.5); continue
+    ^^^^^^^^^^^^^
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 77, in click
+    pyautogui.moveTo(x, y, duration=0.15)
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+
+Traceback (most recent call last):
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 540, in worker
+    flujo(gate)
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 357, in flujo
+    click(*aro)
+  File "C:\Users\PC Budgie\Desktop\Bot2.0\bot_puertas.py", line 77, in click
+    pyautogui.moveTo(x, y, duration=0.15)
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Users\PC Budgie\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+
+12:32:07 preparar_ventanas: inicio
+12:32:07 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+12:32:07 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+12:32:07 ventanas de Windows encontradas: 2
+12:32:07 ventana 591550: maximizada = True
+12:32:07 ventana 722056: maximizada = True
+12:32:08 ventanas: 2 | launcher=si | nave=si
+12:32:11 nave cargada
+12:52:10 preparar_ventanas: inicio
+12:52:10 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+12:52:10 ventanas de Windows encontradas: 1
+12:52:10 ventana 722056: maximizada = True
+12:52:11 ventanas: 1 | launcher=si | nave=no
+12:52:11 click START por pagina: True
+12:52:13 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+12:52:13 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+12:52:13 ventanas de Windows encontradas: 2
+12:52:14 ventana 1443418: maximizada = True
+12:52:14 ventana 722056: maximizada = True
+12:52:16 ventanas: 2 | launcher=si | nave=si
+12:52:34 nave cargada
+16:54:04 preparar_ventanas: inicio
+16:54:04 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:54:04 ventanas de Windows encontradas: 1
+16:54:05 ventana 263550: maximizada = True
+16:54:06 ventanas: 1 | launcher=si | nave=no
+16:54:06 click START por pagina: True
+16:54:08 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:54:08 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:54:08 ventanas de Windows encontradas: 2
+16:54:09 ventana 8259004: maximizada = True
+16:54:09 ventana 263550: maximizada = True
+16:54:10 ventanas: 2 | launcher=si | nave=si
+16:54:25 nave cargada
+16:59:14 preparar_ventanas: inicio
+16:59:14 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:59:14 ventanas de Windows encontradas: 1
+16:59:14 ventana 591230: maximizada = True
+16:59:15 ventanas: 1 | launcher=si | nave=no
+16:59:15 click START por pagina: True
+16:59:16 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:59:16 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:59:16 ventanas de Windows encontradas: 2
+16:59:16 ventana 263574: maximizada = True
+16:59:16 ventana 591230: maximizada = True
+16:59:17 ventanas: 2 | launcher=si | nave=si
+16:59:32 nave cargada
+17:13:53 preparar_ventanas: inicio
+17:13:53 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+17:13:53 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+17:13:53 ventanas de Windows encontradas: 2
+17:13:53 ventana 263574: maximizada = True
+17:13:53 ventana 591230: maximizada = True
+17:13:53 ventanas: 2 | launcher=si | nave=si
+17:14:26 esperar nave fallo: Sin conexion con el juego (abrelo con iniciar_juego_fondo.bat)
+17:14:39 preparar_ventanas: inicio
+17:14:39 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+17:14:39 ventanas de Windows encontradas: 1
+17:14:39 ventana 263876: maximizada = True
+17:14:40 ventanas: 1 | launcher=si | nave=no
+17:14:40 click START por pagina: True
+17:14:41 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+17:14:41 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+17:14:41 ventanas de Windows encontradas: 2
+17:14:41 ventana 853304: maximizada = True
+17:14:41 ventana 263876: maximizada = True
+17:14:42 ventanas: 2 | launcher=si | nave=si
+17:14:59 nave cargada
+16:10:01 preparar_ventanas: inicio
+16:10:01 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:10:02 ventanas de Windows encontradas: 1
+16:10:02 ventana 67380: maximizada = True
+16:10:02 ventanas: 1 | launcher=si | nave=no
+16:10:02 click START por pagina: True
+16:10:03 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:10:03 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:10:03 ventanas de Windows encontradas: 2
+16:10:04 ventana 198122: maximizada = True
+16:10:04 ventana 67380: maximizada = True
+16:10:04 ventanas: 2 | launcher=si | nave=si
+16:10:21 nave cargada
+16:12:37 preparar_ventanas: inicio
+16:12:37 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:12:37 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:12:37 ventanas de Windows encontradas: 2
+16:12:37 ventana 198122: maximizada = True
+16:12:37 ventana 67380: maximizada = True
+16:12:38 ventanas: 2 | launcher=si | nave=si
+16:12:40 nave cargada
+16:25:50 preparar_ventanas: inicio
+16:25:50 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:25:50 ventanas de Windows encontradas: 1
+16:25:50 ventana 6685894: maximizada = True
+16:25:51 ventanas: 1 | launcher=si | nave=no
+16:25:51 click START por pagina: True
+16:25:52 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:25:52 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:25:52 ventanas de Windows encontradas: 2
+16:25:52 ventana 591378: maximizada = True
+16:25:52 ventana 6685894: maximizada = True
+16:25:53 ventanas: 2 | launcher=si | nave=si
+16:26:07 nave cargada
+16:37:22 preparar_ventanas: inicio
+16:37:22 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:37:22 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:37:22 ventanas de Windows encontradas: 2
+16:37:22 ventana 591378: maximizada = True
+16:37:22 ventana 6685894: maximizada = True
+16:37:23 ventanas: 2 | launcher=si | nave=si
+16:37:25 nave cargada
+16:37:36 preparar_ventanas: inicio
+16:37:36 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:37:36 ventanas de Windows encontradas: 1
+16:37:37 ventana 264006: maximizada = True
+16:37:38 ventanas: 1 | launcher=si | nave=no
+16:37:38 click START por pagina: True
+16:37:39 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:37:39 maximizar por DevTools fallo: Browser.getWindowForTarget: {'code': -32601, 'message': "'Browser.getWindowForTarget' wasn't found"}
+16:37:39 ventanas de Windows encontradas: 2
+16:37:39 ventana 263994: maximizada = True
+16:37:39 ventana 264006: maximizada = True
+16:37:40 ventanas: 2 | launcher=si | nave=si
+16:37:57 nave cargada
